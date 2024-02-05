@@ -1,0 +1,4 @@
+//Recieve.cpp
+recieve::setUpRecieveThread() {
+
+}
